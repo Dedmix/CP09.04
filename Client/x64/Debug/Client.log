@@ -1,0 +1,3 @@
+﻿  Client.cpp
+C:\Users\student\source\repos\Client\Client.cpp(159,9): error C2360: пропуск инициализации "n" из-за метки "case"
+C:\Users\student\source\repos\Client\Client.cpp(138): message : см. объявление "n"

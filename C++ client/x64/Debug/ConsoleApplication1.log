@@ -1,0 +1,3 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\student\source\repos\C++ client\ConsoleApplication1.cpp(140,31): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+  ConsoleApplication1.vcxproj -> C:\Users\student\source\repos\C++ client\x64\Debug\ConsoleApplication1.exe
